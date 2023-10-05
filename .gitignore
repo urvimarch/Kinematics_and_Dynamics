@@ -1,0 +1,12 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore Visual Studio Code settings
+.vscode/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
