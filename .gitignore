@@ -5,6 +5,7 @@ node_modules/
 *.log
 
 # Ignore Visual Studio Code settings
+venv/
 .vscode/
 Lib/
 Scripts/
